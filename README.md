@@ -10,7 +10,7 @@
 
 ## Installation
 
-1. Clone this repository:
+1. Download from the web:
    ```bash
    https://clara-tools.fr/claraip.html
    Download file & Documentation
